@@ -1,0 +1,7 @@
+Remove the bot's experience and coin systems
+
+The XP and coin systems have been removed from the bot, simplifying the user data management in the database and command handling.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: f2926bcd-557d-4450-9ebf-8de255b58064
+Replit-Commit-Checkpoint-Type: full_checkpoint

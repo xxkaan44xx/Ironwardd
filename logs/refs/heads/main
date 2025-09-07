@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 bc242e4ea86d2ed98e3bd94f1c0bdcfae72efbbf dakela8034 <47341049-dakela8034@users.noreply.replit.com> 1757270111 +0000	commit (initial): Initial commit
+bc242e4ea86d2ed98e3bd94f1c0bdcfae72efbbf ebd74544373547f0cb73b7949abbad8f74082b8b dakela8034 <47341049-dakela8034@users.noreply.replit.com> 1757270631 +0000	commit: Add moderation commands and essential bot setup for a Turkish Discord bot
+ebd74544373547f0cb73b7949abbad8f74082b8b 0a82a10ca971feace37f71edddf918624aafcd9a dakela8034 <47341049-dakela8034@users.noreply.replit.com> 1757270752 +0000	commit: Add role management and server information commands
+0a82a10ca971feace37f71edddf918624aafcd9a 133ff61d08b98f65df8cab7809109240757e520b dakela8034 <47341049-dakela8034@users.noreply.replit.com> 1757270793 +0000	commit: Add project overview and technical documentation for the Discord bot
+133ff61d08b98f65df8cab7809109240757e520b 4cbaf574a60a913111a174bce902701b1c264d84 dakela8034 <47341049-dakela8034@users.noreply.replit.com> 1757271497 +0000	commit: Add temporary ban, force ban, and temporary mute commands for moderation
+4cbaf574a60a913111a174bce902701b1c264d84 a197c1c273a7d21003df7affde7808fd7f4f14b5 dakela8034 <47341049-dakela8034@users.noreply.replit.com> 1757271813 +0000	commit: Add new commands for user level and reputation systems
+a197c1c273a7d21003df7affde7808fd7f4f14b5 db53e1fd9433eaf95674675fd4525e5062b3108c dakela8034 <47341049-dakela8034@users.noreply.replit.com> 1757272059 +0000	commit: Remove the bot's experience and coin systems
